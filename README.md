@@ -1,0 +1,2 @@
+# Invisible-Risks-Structural-Shortcomings-in-Global-and-Australian-AI-Safety-Frameworks
+Analysis of structural blind spots in global and Australian AI safety frameworks. Designed for government, policy teams, and research institutions to identify hidden systemic risks, strengthen sovereign AI, and complement existing compliance-focused standards. Includes paper, code, and frameworks for structural oversight.
